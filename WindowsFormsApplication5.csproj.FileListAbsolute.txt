@@ -1,0 +1,36 @@
+c:\users\θεοδωροσ\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\ΘΕΟΔΩΡΟΣ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Interop.WMPLib.dll
+C:\Users\ΘΕΟΔΩΡΟΣ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ΘΕΟΔΩΡΟΣ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.ResolveComReference.cache
+C:\Users\ΘΕΟΔΩΡΟΣ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\ΘΕΟΔΩΡΟΣ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\ΘΕΟΔΩΡΟΣ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Interop.WMPLib.dll
+C:\Users\ΘΕΟΔΩΡΟΣ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ΘΕΟΔΩΡΟΣ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\ΘΕΟΔΩΡΟΣ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\ΘΕΟΔΩΡΟΣ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\ΘΕΟΔΩΡΟΣ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form3.resources
+C:\Users\ΘΕΟΔΩΡΟΣ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\ΘΕΟΔΩΡΟΣ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\ΘΕΟΔΩΡΟΣ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\ΘΕΟΔΩΡΟΣ\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\ΘΕΟΔΩΡΟΣ\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\ΘΕΟΔΩΡΟΣ\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\Interop.WMPLib.dll
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.ResolveComReference.cache
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Interop.WMPLib.dll
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form3.resources
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\ΘΕΟΔΩΡΟΣ\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
